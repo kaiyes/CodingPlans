@@ -1,6 +1,6 @@
-<mxfile modified="2019-10-31T09:24:35.494Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="BbYabDZGOeElETFSjv0z" version="12.1.9" type="github" pages="5">
+<mxfile modified="2019-11-14T17:28:26.505Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="UABSXHDL0lmRoA19k01-" version="12.2.6" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="6662" dy="6363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1770" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -366,7 +366,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3HAKlUNPgfQOrh3oe_t" name="Page-2">
-    <mxGraphModel dx="470" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-524" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-0"/>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-1" parent="ILX8pEAcFzlo13NRoIx5-0"/>
@@ -557,58 +557,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fDkJBrgUPHq3iL37Rq5h" name="Page-3">
-    <mxGraphModel dx="1062" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-0"/>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-1" parent="nAnSDoMxOe2pZmFwQWnY-0"/>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-2" value="&lt;h1&gt;Uk&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="200" y="320" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-3" value="&lt;h1&gt;Malwaysia&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="490" y="320" width="170" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-4" value="" style="shape=link;html=1;" parent="nAnSDoMxOe2pZmFwQWnY-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="420" as="sourcePoint"/>
-            <mxPoint x="660" y="420" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-7" value="B does MPharm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="80" y="290" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-9" value="I find and start working Full Time in UK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="70" y="350" width="110" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-10" value="We save proper Cash when we land" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="70" y="420" width="100" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-12" value="My work provides for/adds to savings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="62.5" y="500" width="115" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-13" value="Kid/s start islamic school" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="75" y="584" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-16" value="I do CSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="680" y="280" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-17" value="I go with a Full Time Remote job ongoing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="680" y="330" width="110" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-18" value="We save some &lt;font color=&quot;#447068&quot;&gt;Cash&lt;/font&gt; when we land" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="680" y="410" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-19" value="My work adds to savings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="680" y="490" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="nAnSDoMxOe2pZmFwQWnY-20" value="Kid/s start school" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="nAnSDoMxOe2pZmFwQWnY-1" vertex="1">
-          <mxGeometry x="680" y="560" width="90" height="20" as="geometry"/>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="F60nu-9wxvuH17-Pb7MM" name="Page-4">
-    <mxGraphModel dx="-943" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="231" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="InXe-JzdplNcbdewAPxy-0"/>
         <mxCell id="InXe-JzdplNcbdewAPxy-1" parent="InXe-JzdplNcbdewAPxy-0"/>
@@ -660,7 +610,7 @@
         <mxCell id="BxEIt2bP3MOsLCCgi7mm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=1;" parent="InXe-JzdplNcbdewAPxy-1" source="VYZrQyYVTP8Kx6bg0MKe-5" target="VYZrQyYVTP8Kx6bg0MKe-6" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="dh7xe97QjuOdeuYpudGE-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="InXe-JzdplNcbdewAPxy-1" source="VYZrQyYVTP8Kx6bg0MKe-5" target="zqRFHjn91PNJ5NU0c7lZ-23">
+        <mxCell id="dh7xe97QjuOdeuYpudGE-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="InXe-JzdplNcbdewAPxy-1" source="VYZrQyYVTP8Kx6bg0MKe-5" target="zqRFHjn91PNJ5NU0c7lZ-23" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="VYZrQyYVTP8Kx6bg0MKe-5" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Quran&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="InXe-JzdplNcbdewAPxy-1" vertex="1">
@@ -793,7 +743,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aCdm4ynimvAZjKIbLpId" name="Page-5">
-    <mxGraphModel dx="-2307" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-3267" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Gavr-Ys1QCU1f_-BOrnq-0"/>
         <mxCell id="Gavr-Ys1QCU1f_-BOrnq-1" parent="Gavr-Ys1QCU1f_-BOrnq-0"/>
