@@ -1,6 +1,6 @@
-<mxfile modified="2019-12-14T03:48:57.572Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.74 Safari/537.36" etag="FPK0wvjZwrg_2fAhXOyP" version="12.4.1" type="github" pages="3">
+<mxfile modified="2019-12-16T05:03:57.026Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="7rb6u6uw1wimLROf4yiu" version="12.4.2" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3829" dy="3410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4269" dy="4517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -366,7 +366,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3HAKlUNPgfQOrh3oe_t" name="Page-2">
-    <mxGraphModel dx="626" dy="2214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1003" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-0"/>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-1" parent="ILX8pEAcFzlo13NRoIx5-0"/>
@@ -575,7 +575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F60nu-9wxvuH17-Pb7MM" name="Page-4">
-    <mxGraphModel dx="-324" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-724" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="InXe-JzdplNcbdewAPxy-0"/>
         <mxCell id="InXe-JzdplNcbdewAPxy-1" parent="InXe-JzdplNcbdewAPxy-0"/>
@@ -638,7 +638,7 @@
         <mxCell id="zqRFHjn91PNJ5NU0c7lZ-17" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;strike&gt;Udemy for Arabic/Quran&lt;/strike&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="InXe-JzdplNcbdewAPxy-1" vertex="1">
           <mxGeometry x="3935" y="1657" width="160" height="89" as="geometry"/>
         </mxCell>
-        <mxCell id="LaiESzbFHGzIJzOtKJq8-2" value="&lt;font style=&quot;font-size: 31px&quot;&gt;Journaling&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="InXe-JzdplNcbdewAPxy-1" vertex="1">
+        <mxCell id="LaiESzbFHGzIJzOtKJq8-2" value="&lt;font style=&quot;font-size: 31px&quot;&gt;&lt;strike&gt;Journaling&lt;/strike&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="InXe-JzdplNcbdewAPxy-1" vertex="1">
           <mxGeometry x="6000" y="958" width="170" height="86" as="geometry"/>
         </mxCell>
         <mxCell id="LaiESzbFHGzIJzOtKJq8-7" value="&lt;font style=&quot;font-size: 31px&quot;&gt;Todo&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="InXe-JzdplNcbdewAPxy-1" vertex="1">
@@ -647,7 +647,7 @@
         <mxCell id="LaiESzbFHGzIJzOtKJq8-10" value="&lt;font style=&quot;font-size: 31px&quot;&gt;Pomodoro&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="InXe-JzdplNcbdewAPxy-1" vertex="1">
           <mxGeometry x="6000" y="1199.5" width="170" height="86" as="geometry"/>
         </mxCell>
-        <mxCell id="LaiESzbFHGzIJzOtKJq8-11" value="&lt;font style=&quot;font-size: 31px&quot;&gt;&lt;strike&gt;notes&lt;/strike&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="InXe-JzdplNcbdewAPxy-1" vertex="1">
+        <mxCell id="LaiESzbFHGzIJzOtKJq8-11" value="&lt;font style=&quot;font-size: 31px&quot;&gt;notes&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="InXe-JzdplNcbdewAPxy-1" vertex="1">
           <mxGeometry x="6000" y="848.5" width="170" height="86" as="geometry"/>
         </mxCell>
         <mxCell id="LaiESzbFHGzIJzOtKJq8-12" value="&lt;font style=&quot;font-size: 31px&quot;&gt;Calender&lt;br&gt;based report&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="InXe-JzdplNcbdewAPxy-1" vertex="1">
