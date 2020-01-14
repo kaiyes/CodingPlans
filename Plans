@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-14T12:22:25.781Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="0P_W_Qcy8nQILYqmhwow" version="12.5.1" type="github" pages="4">
+<mxfile modified="2020-01-14T12:23:56.439Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="5sATcsk7sDlGAtyzCFgx" version="12.5.1" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="5553" dy="3410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -788,13 +788,13 @@
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-0"/>
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-1" parent="XAUbCHkMTN9BvFAWwjnR-0"/>
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-0" value="&lt;font style=&quot;font-size: 37px&quot;&gt;&lt;b&gt;Read&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
-          <mxGeometry x="3400" y="1090" width="170" height="1060" as="geometry"/>
+          <mxGeometry x="3450" y="1086" width="170" height="1060" as="geometry"/>
         </mxCell>
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-1" value="&lt;font style=&quot;font-size: 29px&quot;&gt;&lt;font style=&quot;font-size: 29px&quot;&gt;Old Book&lt;br&gt;&lt;/font&gt;Sell + Bid&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
           <mxGeometry x="3626" y="2060" width="170" height="86" as="geometry"/>
         </mxCell>
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Class Led By&lt;br&gt;Book authors&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
-          <mxGeometry x="3636" y="1400.0000000000002" width="170" height="80" as="geometry"/>
+          <mxGeometry x="3628" y="1410.0000000000002" width="170" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Book Gift Social Network&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
           <mxGeometry x="3628" y="1950" width="170" height="80" as="geometry"/>
@@ -815,16 +815,16 @@
           <mxGeometry x="3628" y="1655.5" width="173" height="135" as="geometry"/>
         </mxCell>
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-9" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Likes,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Comments,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Forums,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Weighted Likes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
-          <mxGeometry x="3636" y="1500" width="184" height="130" as="geometry"/>
+          <mxGeometry x="3628" y="1510" width="184" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-11" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Epub Reader&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
-          <mxGeometry x="3636" y="1300" width="160" height="78" as="geometry"/>
+          <mxGeometry x="3626" y="1300" width="160" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-12" value="&lt;span style=&quot;font-size: 24px&quot;&gt;HQTrivia&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
-          <mxGeometry x="3638" y="1190" width="160" height="78" as="geometry"/>
+          <mxGeometry x="3628" y="1200" width="160" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-13" value="&lt;span style=&quot;font-size: 24px&quot;&gt;QuipLash&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
-          <mxGeometry x="3640" y="1091" width="160" height="78" as="geometry"/>
+          <mxGeometry x="3628" y="1100" width="160" height="78" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
