@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-14T12:05:11.900Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="_XgykdROT979lo3sb0dS" version="12.5.1" type="github" pages="4">
+<mxfile modified="2020-01-14T12:21:37.360Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="UMj8XD47bxkhhHsL_hrO" version="12.5.1" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="5553" dy="3410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -783,7 +783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eKpTRUwS0DnJfFm9121Y" name="Page-5">
-    <mxGraphModel dx="-456" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1271" dy="-62" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-0"/>
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-1" parent="XAUbCHkMTN9BvFAWwjnR-0"/>
@@ -814,8 +814,8 @@
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-8" value="&lt;p style=&quot;line-height: 60%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Marketplace of Videos&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;div&gt;&lt;span&gt;- by Account&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;- by Book&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
           <mxGeometry x="3628" y="1655.5" width="173" height="135" as="geometry"/>
         </mxCell>
-        <mxCell id="fNL2oOAQXHj20pJ0SHZX-9" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Likes,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Comments,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Forums,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
-          <mxGeometry x="3636" y="1500" width="157" height="130" as="geometry"/>
+        <mxCell id="fNL2oOAQXHj20pJ0SHZX-9" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Likes,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Comments,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Forums,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Weighted Likes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
+          <mxGeometry x="3636" y="1500" width="184" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="fNL2oOAQXHj20pJ0SHZX-11" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Epub Reader&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
           <mxGeometry x="3636" y="1300" width="160" height="78" as="geometry"/>
