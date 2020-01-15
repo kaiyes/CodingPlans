@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-15T11:33:41.381Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="py3lrCCsHgIK5StdVqYq" version="12.5.3" type="github" pages="4">
+<mxfile modified="2020-01-15T12:00:04.610Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="4jupKRYiUGWkN8K0PuY_" version="12.5.3" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="4747" dy="3410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1196,7 +1196,7 @@
     &#xa;  
   </diagram>
   <diagram id="eKpTRUwS0DnJfFm9121Y" name="Page-5">
-    <mxGraphModel dx="-935" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-460" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-0"/>
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-1" parent="XAUbCHkMTN9BvFAWwjnR-0"/>
@@ -1241,6 +1241,9 @@
         </mxCell>
         <mxCell id="qIEanCGdzsBXNF0cW7xm-0" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Book sell&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
           <mxGeometry x="3626" y="1008" width="160" height="78" as="geometry"/>
+        </mxCell>
+        <mxCell id="qIEanCGdzsBXNF0cW7xm-1" value="&lt;font style=&quot;font-size: 29px&quot;&gt;book Loan&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XAUbCHkMTN9BvFAWwjnR-1">
+          <mxGeometry x="3629.5" y="2170" width="170" height="86" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
