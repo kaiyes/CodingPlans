@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-16T07:02:08.143Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="__7VT55AdATVNXBrAN02" version="12.5.4" type="github" pages="4">
+<mxfile modified="2020-01-16T07:04:23.891Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="1fe9GZMXAH5dmwJHcjz7" version="12.5.4" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="7911" dy="5133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3HAKlUNPgfQOrh3oe_t" name="UmmaLand">
-    <mxGraphModel dx="2415" dy="2214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2415" dy="3383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-0"/>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-1" parent="ILX8pEAcFzlo13NRoIx5-0"/>
@@ -481,6 +481,12 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="spfZG3VIfHjjrK3K1PUT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="ILX8pEAcFzlo13NRoIx5-1" source="ILX8pEAcFzlo13NRoIx5-28" target="spfZG3VIfHjjrK3K1PUT-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="spfZG3VIfHjjrK3K1PUT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ILX8pEAcFzlo13NRoIx5-1" source="ILX8pEAcFzlo13NRoIx5-28" target="spfZG3VIfHjjrK3K1PUT-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="spfZG3VIfHjjrK3K1PUT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ILX8pEAcFzlo13NRoIx5-1" source="ILX8pEAcFzlo13NRoIx5-28" target="spfZG3VIfHjjrK3K1PUT-7">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 35px&quot;&gt;Community&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=#82b366;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
@@ -662,6 +668,12 @@
         </mxCell>
         <mxCell id="spfZG3VIfHjjrK3K1PUT-5" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Social (like, comments)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ILX8pEAcFzlo13NRoIx5-1">
           <mxGeometry x="4156.5" y="30" width="162" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="spfZG3VIfHjjrK3K1PUT-7" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Security&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ILX8pEAcFzlo13NRoIx5-1">
+          <mxGeometry x="4156.5" y="-70" width="162" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="spfZG3VIfHjjrK3K1PUT-10" value="&lt;span style=&quot;font-size: 24px&quot;&gt;সমিতি ভোটিং&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ILX8pEAcFzlo13NRoIx5-1">
+          <mxGeometry x="4150" y="-170" width="162" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
