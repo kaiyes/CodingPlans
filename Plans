@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-25T14:12:06.967Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="mg1QyAeNPVuyKZlMKIP8" version="13.1.3" type="github" pages="4">
+<mxfile modified="2020-05-25T14:13:05.076Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="j_X4LCj6RV-3W51lmoIw" version="13.1.3" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2525" dy="4702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3HAKlUNPgfQOrh3oe_t" name="UmmaLand">
-    <mxGraphModel dx="1119" dy="2461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2506" dy="3107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-0" />
         <mxCell id="ILX8pEAcFzlo13NRoIx5-1" parent="ILX8pEAcFzlo13NRoIx5-0" />
@@ -489,7 +489,7 @@
         <mxCell id="spfZG3VIfHjjrK3K1PUT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ILX8pEAcFzlo13NRoIx5-1" source="ILX8pEAcFzlo13NRoIx5-28" target="spfZG3VIfHjjrK3K1PUT-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ILX8pEAcFzlo13NRoIx5-28" value="&lt;span style=&quot;font-size: 35px&quot;&gt;&lt;b&gt;কমিউনিটি&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=#82b366;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
+        <mxCell id="ILX8pEAcFzlo13NRoIx5-28" value="&lt;span style=&quot;font-size: 35px&quot;&gt;&lt;b&gt;কমিউনিটি/&lt;br&gt;কাবিলা&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=#82b366;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
           <mxGeometry x="3370" y="380" width="288" height="140.5" as="geometry" />
         </mxCell>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ILX8pEAcFzlo13NRoIx5-1" source="ILX8pEAcFzlo13NRoIx5-29" target="ILX8pEAcFzlo13NRoIx5-15" edge="1">
