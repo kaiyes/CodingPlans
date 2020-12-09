@@ -1,6 +1,6 @@
-<mxfile modified="2020-11-16T15:31:28.419Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="C9moSNQYcnAzMwawrjSX" version="13.9.9" type="github" pages="4">
+<mxfile modified="2020-12-09T02:07:05.750Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="i0khm7EBbFeRYn_ZzSLS" version="13.11.0" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4520" dy="4702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="6621" dy="6363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3HAKlUNPgfQOrh3oe_t" name="UmmaLand">
-    <mxGraphModel dx="1433" dy="3107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="306" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-0" />
         <mxCell id="ILX8pEAcFzlo13NRoIx5-1" parent="ILX8pEAcFzlo13NRoIx5-0" />
@@ -485,7 +485,7 @@
           <mxGeometry x="2619.5" y="260" width="145" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-17" value="&lt;span style=&quot;font-size: 24px&quot;&gt;বিবাহ - শাদীর অ্যাপ&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
-          <mxGeometry x="3230" y="252.5" width="162" height="80" as="geometry" />
+          <mxGeometry x="3028.5" y="137.5" width="162" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-20" value="&lt;span style=&quot;font-size: 24px&quot;&gt;এলাকা ভিত্তিক ফরজে আইন শিক্ষা&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
           <mxGeometry x="3849.5" y="630" width="170" height="128" as="geometry" />
@@ -616,7 +616,7 @@
           <mxGeometry x="2027" y="453.5" width="216" height="150" as="geometry" />
         </mxCell>
         <mxCell id="zFnNzHCwxqH8r7Y-TtWV-10" value="&lt;span style=&quot;font-size: 24px&quot;&gt;দিনে এক লাইন কুরান মুখস্ত&amp;nbsp;&lt;br&gt;+&lt;br&gt;সোশ্যাল সাপর্ট গ্রুপ&amp;nbsp;&lt;br&gt;+ গিঠাবের মত কমিট দেখানোর সিস্টেম&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
-          <mxGeometry x="1480" y="750" width="220" height="210" as="geometry" />
+          <mxGeometry x="1720" y="571" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="zFnNzHCwxqH8r7Y-TtWV-11" value="&lt;h1&gt;TriviaHQ&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
           <mxGeometry x="1887" y="505.5" width="140" height="46" as="geometry" />
@@ -694,20 +694,6 @@
         </mxCell>
         <mxCell id="142IxTY_4J-iAlvB9-f0-0" value="&lt;span style=&quot;font-size: 24px&quot;&gt;hospital&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
           <mxGeometry x="2720" y="110" width="145" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="142IxTY_4J-iAlvB9-f0-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;shop&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
-          <mxGeometry x="2540" y="1040" width="170" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="142IxTY_4J-iAlvB9-f0-5" value="" style="curved=1;endArrow=classic;html=1;" parent="ILX8pEAcFzlo13NRoIx5-1" target="142IxTY_4J-iAlvB9-f0-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2560" y="840" as="sourcePoint" />
-            <mxPoint x="2633" y="850" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2560" y="940" />
-              <mxPoint x="2583" y="850" />
-              <mxPoint x="3500" y="1070" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -996,7 +982,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eKpTRUwS0DnJfFm9121Y" name="Readable">
-    <mxGraphModel dx="1212" dy="5044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="15232" dy="16669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-0" />
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-1" parent="XAUbCHkMTN9BvFAWwjnR-0" />
