@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-15T06:08:14.202Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="brTDiaTTzeAYxeYyZg3X" version="14.0.1" type="github" pages="4">
+<mxfile modified="2020-12-15T06:17:53.481Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="pBLJwRYjSyWdh9c9-8L2" version="14.0.1" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="581" dy="1269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -982,7 +982,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eKpTRUwS0DnJfFm9121Y" name="Readable">
-    <mxGraphModel dx="-2727" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2461" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-0" />
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-1" parent="XAUbCHkMTN9BvFAWwjnR-0" />
@@ -1178,7 +1178,7 @@
         <mxCell id="zk0ZRhUQnuIC9Pjk1Ve0-171" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Loan&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="XAUbCHkMTN9BvFAWwjnR-1" vertex="1">
           <mxGeometry x="6691.33" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zk0ZRhUQnuIC9Pjk1Ve0-172" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Book &lt;br&gt;Sell&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="XAUbCHkMTN9BvFAWwjnR-1" vertex="1">
+        <mxCell id="zk0ZRhUQnuIC9Pjk1Ve0-172" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Book &lt;br&gt;Sell&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="XAUbCHkMTN9BvFAWwjnR-1" vertex="1">
           <mxGeometry x="6888.33" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zk0ZRhUQnuIC9Pjk1Ve0-173" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="XAUbCHkMTN9BvFAWwjnR-1" source="zk0ZRhUQnuIC9Pjk1Ve0-138" target="zk0ZRhUQnuIC9Pjk1Ve0-172" edge="1">
