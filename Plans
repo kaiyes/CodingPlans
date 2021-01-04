@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-04T06:28:15.734Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="yl4XO8UVFh-dm7XGc83S" version="14.1.8" type="github" pages="6">
+<mxfile modified="2021-01-04T06:29:46.427Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="vKnT2AHnnOsqhdFrD-Af" version="14.1.8" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="6600" dy="6334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2273,7 +2273,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QQTeFIgNXvOAq5_5n_H7" name="marketing">
-    <mxGraphModel dx="4602" dy="5024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lxRpf35uJActS0EJC4wL-0" />
         <mxCell id="lxRpf35uJActS0EJC4wL-1" parent="lxRpf35uJActS0EJC4wL-0" />
@@ -2404,8 +2404,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxRpf35uJActS0EJC4wL-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="lxRpf35uJActS0EJC4wL-1" source="lxRpf35uJActS0EJC4wL-31" target="lxRpf35uJActS0EJC4wL-73">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lxRpf35uJActS0EJC4wL-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="lxRpf35uJActS0EJC4wL-1" source="lxRpf35uJActS0EJC4wL-31" target="lxRpf35uJActS0EJC4wL-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="lxRpf35uJActS0EJC4wL-1" source="lxRpf35uJActS0EJC4wL-31" target="lxRpf35uJActS0EJC4wL-33">
           <mxGeometry relative="1" as="geometry">
@@ -2427,13 +2429,13 @@
           <mxGeometry x="380" y="720" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-32" value="বই সামারি&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
-          <mxGeometry x="-125" y="660" width="180" height="40" as="geometry" />
+          <mxGeometry x="-127.5" y="660" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-33" value="সংগ্রামী সাধকদের ইতিকথা&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
-          <mxGeometry x="-125" y="800" width="300" height="40" as="geometry" />
+          <mxGeometry x="-127.5" y="800" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-34" value="সালতানাতের দাস্তান&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
-          <mxGeometry x="-120" y="870" width="255" height="40" as="geometry" />
+          <mxGeometry x="-127.5" y="870" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-35" value="- স্কেচ + ফাইনাল কাট&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
           <mxGeometry x="-90" y="630" width="180" height="20" as="geometry" />
@@ -2487,7 +2489,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-41" value="পোস্ট থেকে বিভিন্ন টপিকে&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
-          <mxGeometry x="-125" y="1410" width="255" height="40" as="geometry" />
+          <mxGeometry x="-127.5" y="1410" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-47" value="পশ্চিমা ভ্রান্ত মতবাদ&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
           <mxGeometry x="-102.5" y="1470" width="210" height="60" as="geometry" />
@@ -2530,11 +2532,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxRpf35uJActS0EJC4wL-73" value="বই সামারি&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
-          <mxGeometry x="-125" y="730" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lxRpf35uJActS0EJC4wL-77" value="সালতানাতের দাস্তান&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
-          <mxGeometry x="-120" y="940" width="255" height="40" as="geometry" />
+        <mxCell id="lxRpf35uJActS0EJC4wL-77" value="৫/৭টি উপায় x এর জন্যে&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
+          <mxGeometry x="-127.5" y="730" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-78" value="জন্ম নিয়ন্ত্রণ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
           <mxGeometry x="-102.5" y="1890" width="210" height="60" as="geometry" />
