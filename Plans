@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-04T06:12:53.879Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="aBrZwTdfOE6tYd0e3oor" version="14.1.8" type="github" pages="6">
+<mxfile modified="2021-01-04T06:20:36.162Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="-yZUU-FfM7ClsNLzEcbS" version="14.1.8" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="6600" dy="6334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2373,7 +2373,7 @@
         <mxCell id="lxRpf35uJActS0EJC4wL-31" value="&lt;span style=&quot;font-size: 18px&quot;&gt;এনিমেশন&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=24;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
           <mxGeometry x="380" y="720" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxRpf35uJActS0EJC4wL-32" value="সামারি এনিমেশন&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
+        <mxCell id="lxRpf35uJActS0EJC4wL-32" value="বই সামারি&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
           <mxGeometry x="-110" y="660" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-33" value="সংগ্রামী সাধকদের ইতিকথা&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
