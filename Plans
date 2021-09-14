@@ -1,6 +1,6 @@
-<mxfile modified="2021-09-08T04:47:51.559Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ha2GFP0mMmRP8A6OkSkD" version="14.9.7" type="github" pages="6">
+<mxfile modified="2021-09-14T07:25:09.921Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="GKMaEl06cbJJaXXq8Yw1" version="15.1.1" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1074" dy="2373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="3030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3HAKlUNPgfQOrh3oe_t" name="UmmaLand">
-    <mxGraphModel dx="972" dy="2715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-671" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-0" />
         <mxCell id="ILX8pEAcFzlo13NRoIx5-1" parent="ILX8pEAcFzlo13NRoIx5-0" />
@@ -546,11 +546,16 @@
         <mxCell id="ILX8pEAcFzlo13NRoIx5-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" source="ILX8pEAcFzlo13NRoIx5-29" target="ILX8pEAcFzlo13NRoIx5-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ILX8pEAcFzlo13NRoIx5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.412;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" source="ILX8pEAcFzlo13NRoIx5-29" target="ILX8pEAcFzlo13NRoIx5-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DaDGlfzAJdEl2IP2HYyo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" source="ILX8pEAcFzlo13NRoIx5-29" target="ILX8pEAcFzlo13NRoIx5-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOft6didkH6f1In1NmIy-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.809;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ILX8pEAcFzlo13NRoIx5-1" source="ILX8pEAcFzlo13NRoIx5-29" target="ILX8pEAcFzlo13NRoIx5-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3288" y="633" />
+              <mxPoint x="3288" y="706" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-29" value="&lt;span style=&quot;font-size: 24px&quot;&gt;মুসলিম বাজার&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
           <mxGeometry x="3052" y="605.5" width="138" height="56" as="geometry" />
