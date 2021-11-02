@@ -1,6 +1,6 @@
-<mxfile modified="2021-10-04T10:30:59.212Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="FyMBUSl09G9EL1GieHWb" version="15.4.1" type="github" pages="6">
+<mxfile modified="2021-11-02T05:55:42.781Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="MnMeEAu4GqNh_x0MZgE1" version="15.6.5" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1398" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3HAKlUNPgfQOrh3oe_t" name="UmmaLand">
-    <mxGraphModel dx="343" dy="2272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-348" dy="2110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ILX8pEAcFzlo13NRoIx5-0" />
         <mxCell id="ILX8pEAcFzlo13NRoIx5-1" parent="ILX8pEAcFzlo13NRoIx5-0" />
@@ -686,12 +686,6 @@
         <mxCell id="46Rx1G4HIL2G8wQ2xkAb-18" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Duo Lingo + Udemy For&amp;nbsp;&lt;br&gt;Arabic + Practise marketplace&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
           <mxGeometry x="1847" y="124" width="180" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="46Rx1G4HIL2G8wQ2xkAb-19" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Basic Mandatory islam class area based&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
-          <mxGeometry x="4050" y="630" width="170" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="46Rx1G4HIL2G8wQ2xkAb-20" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Dispute management&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
-          <mxGeometry x="4050" y="520.5" width="170" height="85" as="geometry" />
-        </mxCell>
         <mxCell id="142IxTY_4J-iAlvB9-f0-0" value="&lt;span style=&quot;font-size: 24px&quot;&gt;hospital&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ILX8pEAcFzlo13NRoIx5-1" vertex="1">
           <mxGeometry x="2720" y="110" width="145" height="75" as="geometry" />
         </mxCell>
@@ -699,7 +693,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F60nu-9wxvuH17-Pb7MM" name="Page-4">
-    <mxGraphModel dx="-363" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-544" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="InXe-JzdplNcbdewAPxy-0" />
         <mxCell id="InXe-JzdplNcbdewAPxy-1" parent="InXe-JzdplNcbdewAPxy-0" />
@@ -982,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eKpTRUwS0DnJfFm9121Y" name="Readable">
-    <mxGraphModel dx="-1311" dy="2272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2198" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-0" />
         <mxCell id="XAUbCHkMTN9BvFAWwjnR-1" parent="XAUbCHkMTN9BvFAWwjnR-0" />
