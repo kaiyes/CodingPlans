@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T04:52:52.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Z8-bpMXfVteUa3VpzJM9" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T04:56:26.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VI3FoavM-bAYTTzH8Elu" version="16.1.0" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="453" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="627" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,38 @@
         <mxCell id="_ltd66mtobyu-5Ot_EL1-661" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ltd66mtobyu-5Ot_EL1-660" target="_ltd66mtobyu-5Ot_EL1-657">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-663" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ltd66mtobyu-5Ot_EL1-660" target="_ltd66mtobyu-5Ot_EL1-662">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-667" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ltd66mtobyu-5Ot_EL1-660" target="_ltd66mtobyu-5Ot_EL1-664">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-668" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ltd66mtobyu-5Ot_EL1-660" target="_ltd66mtobyu-5Ot_EL1-665">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-669" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_ltd66mtobyu-5Ot_EL1-660" target="_ltd66mtobyu-5Ot_EL1-666">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-671" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ltd66mtobyu-5Ot_EL1-660" target="_ltd66mtobyu-5Ot_EL1-670">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_ltd66mtobyu-5Ot_EL1-660" value="DropShipping Partners" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-662" value="&lt;span&gt;Micro Investor&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="465" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-664" value="&lt;span&gt;Micro Investor&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="430" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-665" value="&lt;span&gt;Micro Investor&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="500" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-666" value="Micro Investor" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="390" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ltd66mtobyu-5Ot_EL1-670" value="&lt;span&gt;Micro Investor&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="540" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
