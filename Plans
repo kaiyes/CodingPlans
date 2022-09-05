@@ -1,4 +1,4 @@
-<mxfile modified="2022-09-05T06:05:36.505Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="kbznRgBi52KZ53IpcveS" version="20.1.1" type="github" pages="6">
+<mxfile modified="2022-09-05T06:18:46.970Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="kICa3Eg0qrnLnRgr5EbA" version="20.1.1" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3980" dy="3036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2178,7 +2178,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QQTeFIgNXvOAq5_5n_H7" name="marketing">
-    <mxGraphModel dx="2970" dy="2358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2970" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lxRpf35uJActS0EJC4wL-0" />
         <mxCell id="lxRpf35uJActS0EJC4wL-1" parent="lxRpf35uJActS0EJC4wL-0" />
@@ -2453,6 +2453,9 @@
         </mxCell>
         <mxCell id="lxRpf35uJActS0EJC4wL-106" value="নারীবাদ" style="triangle;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6c8ebf;fillColor=#F9FAFC;" parent="lxRpf35uJActS0EJC4wL-1" vertex="1">
           <mxGeometry x="1075" y="901" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fk0uJLXWyTfP_u6pnsEQ-0" value="রিজিক বৃদ্ধির ১০ উপায়&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="lxRpf35uJActS0EJC4wL-1">
+          <mxGeometry x="375" y="965" width="255" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
